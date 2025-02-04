@@ -4,4 +4,15 @@
 * item 2
 * item 3
 
-## Intento de hacer conflicto 
+## Esto es un enlace externo
+[google](http://www.google.es)
+
+
+## Estos es un bloque de código
+```java
+System.out.println("Hola Mundo");
+```
+
+## Esto es una lista numerada
+1. uno
+2. dos
