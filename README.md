@@ -6,3 +6,9 @@
 
 ## Esto es un enlace externo
 [google](http://www.google.es)
+
+
+## Estos es un bloque de código
+```java
+System.out.println("Hola Mundo");
+```
